@@ -1,4 +1,4 @@
-device-props_javctiveltexx
+device-props_jactiveltexx
 ==========================
 
 Props for jactivelte
